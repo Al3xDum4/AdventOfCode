@@ -15,7 +15,7 @@ public class Day2_2015 {
 
         List<Integer> listOfAllBoxesRibbonNeeds = new ArrayList<>();
 
-        File file = new File("E:\\IdeaProjects\\AdventOfCode\\src\\file\\file.txt");
+        File file = new File("E:\\IdeaProjects\\AdventOfCode\\src\\file\\file_day2_2015.txt");
 
 
         calcPaperNeeds(NR_OF_FACES, listOfAllBoxesWrapperNeeds, file);
